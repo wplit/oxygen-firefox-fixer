@@ -1,0 +1,28 @@
+/* Typography
+--------------------------------------------- */
+
+@-moz-document url-prefix() {
+	  body {
+		font-weight: 400 !important;
+        -moz-osx-font-smoothing: grayscale;
+	  }
+    
+    .oxygen-control .oxygen-measure-box-slider {
+        top: 3px;
+    }
+    
+    .oxygen-add-global-color-icon {
+        margin-left: -22px;
+    }
+	
+	.wp-picker-container {
+		display: block;
+	}
+}
+
+/* Fix slider
+--------------------------------------------- */
+
+.oxygen-measure-box-slider input[type="range"] {
+    background: none;
+}
