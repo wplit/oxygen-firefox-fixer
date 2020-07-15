@@ -6,6 +6,17 @@
 
 Fixes the UI when working inside Oxygen in Firefox.
 
+- Typography lighter, same as in Chrome
+- Slider background fixed
+- Color circles are now positioned correctly,
+- Global colour positioned correctly.
+
+----- Before -----
+<img src="https://user-images.githubusercontent.com/43051571/87521909-50d33800-c6c8-11ea-8d04-80b4dafc714f.png">
+
+----- After -----
+<img src="https://user-images.githubusercontent.com/43051571/87521920-56308280-c6c8-11ea-94ad-5e263cd59306.png">
+
 
 ## Installation ##
 
